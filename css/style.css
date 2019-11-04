@@ -1,11 +1,8 @@
 /* Fonts */
 @import "https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat";
 /* Plugins */
-
-@import url(ionicons.min.css);
-@import url(https://spikeesakshu.github.io/MyPortfolio/css/font-awesome.min.css);
+@import url(font-awesome.min.css);
 @import url(animate.min.css);
-@import url(swipebox.css);
 /* Base structure */
 html {
   width: 100% !important;
