@@ -17,6 +17,25 @@ body {
   background-color: #fff;
   -webkit-font-smoothing: antialiased; }
 
+  .fa-heart:hover{
+    color:red !important;
+ }
+ 
+ .fa-github:hover{
+  color:#000 !important;
+}
+
+.fa-linkedin:hover{
+  color:#0e76a8 !important;
+}
+
+.fa-instagram:hover{
+  color:#5851db!important;
+}
+
+
+
+
 /* Preloader */
 #preloader {
   top: 0;
@@ -210,6 +229,13 @@ a .fa, a .icon {
   -moz-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out; }
 
+  .fa-heart:hover{
+    color:red !important;
+ }
+ .fa-heart-o:hover{
+    color:red !important;
+ }
+ 
 .iconsmall {
   font-size: 46px;
   float: left;
